@@ -1,6 +1,6 @@
-- Hi, I’m @zanuartri 👋
-- I’m interested in Software Testing
-- You can contact me at triromadon@gmail.com
+# Hi, I’m @zanuartri 👋
+I’m interested in **coding stuff**, especially building simple tools, apps, and experiments.
+📫 You can reach me at **triromadon@gmail.com**.
 
 <!---
 zanuartri/zanuartri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
