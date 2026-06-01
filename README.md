@@ -1,19 +1,22 @@
 # Hi, I’m @zanuartri 👋
-I enjoy exploring the intersection of robust backend logic and modern AI implementation. Currently, I'm focusing on building efficient systems and exploring how AI can enhance software functionality.
+I enjoy exploring the intersection of robust system design and Agentic AI. Currently, I am shifting paradigms—moving from traditional development to **Vibe Coding** and orchestration, leveraging AI agents to build, scale, and automate complex workflows.
 
 ### 🧩 Current Focus
-- **Backend Core:** Deep diving into **Java** for building scalable and reliable services.
-- **AI Integration:** Implementing **LLMs** and **MCP (Model Context Protocol)** to bridge the gap between data and AI intelligence.
-- **On the Radar:** Looking forward to exploring **Go** or **Rust** for high-performance systems.
+- **Agentic AI & Orchestration:** Building and configuring autonomous AI agents using cutting-edge agentic frameworks and terminal-based AI assistants.
+- **MCP (Model Context Protocol):** Designing and implementing custom MCP servers to bridge the gap between LLMs, local development environments, and data layers.
+- **Vibe Coding & Automation:** Streamlining the development lifecycle where high-level design, context injection, and prompt engineering meet high-performance backend logic.
 
 ### 🛠️ Tech & Tools
-- **Languages:** Java and Spring Ecosystem (Primary)
-- **AI Implementation:** LLM Orchestration, MCP Servers.
-- **Interests:** System Architecture, API Design, and Automation.
-- 
+- **AI & Automation:** Agentic Frameworks, MCP Servers, LLM Orchestration.
+- **Backend Ecosystem:** Java (Spring Boot), Javascript, Python, and PostgreSQL.
+- **Interests:** System Architecture, Context-Driven Development, and Hyper-Automation.
+
+### ⚡ My Vibe
+> "The future of coding isn't about writing syntax line by line; it's about steering intelligence, managing context, and bringing ideas to life at the speed of thought."
+
 ### 📫 Reach Me
 - 📧 Email: triromadon@gmail.com
-- 💬 Let's talk about Java, Backend, or AI implementation!
+- 💬 Let's talk about Agentic AI, MCP servers, or the future of Vibe Coding!
 
 ---
 *"Logic will get you from A to B. Imagination will take you everywhere."*
