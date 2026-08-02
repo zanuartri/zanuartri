@@ -31,8 +31,10 @@ I enjoy exploring the intersection of robust system design and Agentic AI. Curre
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zanuartri&show_icons=true&theme=tokyonight&hide_border=true" alt="zanuartri's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanuartri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/zanuartri/zanuartri/generated/overview.svg" alt="zanuartri's GitHub stats overview" />
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/zanuartri/zanuartri/generated/languages.svg" alt="zanuartri's top languages" />
 </p>
 
 <p>
