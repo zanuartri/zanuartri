@@ -30,17 +30,6 @@
 - **Backend Ecosystem**: Java (Spring Boot), Javascript, Python, and PostgreSQL.
 - **Interests**: System Architecture, Context-Driven Development, and Hyper-Automation.
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" align="left" src="https://github-readme-stats-blue-one-19.vercel.app/api?username=zanuartri&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" alt="zanuartri's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-blue-one-19.vercel.app/api/top-langs/?username=zanuartri&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=zanuartri&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
 ## ⚡ My Vibe
 
 > "The future of coding isn't about writing syntax line by line; it's about steering intelligence, managing context, and bringing ideas to life at the speed of thought."
