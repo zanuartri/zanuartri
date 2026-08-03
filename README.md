@@ -1,6 +1,8 @@
 # Hi, I'm @zanuartri 👋
 
-I enjoy exploring the intersection of robust system design and Agentic AI. Currently, I'm shifting from traditional development into **AI agent engineering**. Learning to build, evaluate, and orchestrate autonomous agents on top of LLMs, one framework at a time.
+6+ years as a QA Automation Engineer, now shifting into **AI agent engineering**. I build agents that act, not just chat: systems that plan, call tools, and get evaluated like production code, not demos.
+
+🔗 Portfolio: [github.com/zanuartri/web-zanuar](https://github.com/zanuartri/web-zanuar) (site going live soon)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanuartri/zanuartri/output/github-contribution-grid-snake-dark.svg" />
@@ -10,7 +12,7 @@ I enjoy exploring the intersection of robust system design and Agentic AI. Curre
 
 ## 🍀 Current Focus
 
-- **Agentic AI Engineering**: Learning LangChain → LangGraph → deepagents in public, one project at a time. Follow the journey at [agentic-ai-lab](https://github.com/zanuartri/agentic-ai-lab).
+- **Agentic AI Engineering**: Building with LangChain and LangGraph, RAG-grounded agents that don't stop at a chat reply.
 - **MCP (Model Context Protocol)**: Designing and implementing custom MCP servers to bridge LLMs, local dev environments, and data layers.
 - **Vibe Coding & Automation**: Streamlining the dev lifecycle where high-level design, context injection, and prompt engineering meet high-performance backend logic.
 
@@ -45,6 +47,7 @@ I enjoy exploring the intersection of robust system design and Agentic AI. Curre
 
 ## 📣 Reach Me
 
+- Portfolio: [github.com/zanuartri/web-zanuar](https://github.com/zanuartri/web-zanuar)
 - Email: [triromadon@gmail.com](mailto:triromadon@gmail.com)
 - Let's talk about Agentic AI, MCP servers, or the future of Vibe Coding!
 
