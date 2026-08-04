@@ -2,7 +2,7 @@
 
 6+ years as a QA Automation Engineer, now shifting into **AI agent engineering**. I build agents that act, not just chat: systems that plan, call tools, and get evaluated like production code, not demos.
 
-🔗 Portfolio: [github.com/zanuartri/web-zanuar](https://github.com/zanuartri/web-zanuar) (site going live soon)
+🔗 Portfolio: [zanuar.dev](https://zanuar.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanuartri/zanuartri/output/github-contribution-grid-snake-dark.svg" />
@@ -36,7 +36,7 @@
 
 ## 📣 Reach Me
 
-- Portfolio: [github.com/zanuartri/web-zanuar](https://github.com/zanuartri/web-zanuar)
+- Portfolio: [zanuar.dev](https://zanuar.dev)
 - Email: [triromadon@gmail.com](mailto:triromadon@gmail.com)
 - Let's talk about Agentic AI, MCP servers, or the future of Vibe Coding!
 
