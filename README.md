@@ -16,6 +16,10 @@
 - **MCP (Model Context Protocol)**: Designing and implementing custom MCP servers to bridge LLMs, local dev environments, and data layers.
 - **Vibe Coding & Automation**: Streamlining the dev lifecycle where high-level design, context injection, and prompt engineering meet high-performance backend logic.
 
+## 🌱 Open Source
+
+- UI fix and a small RTK bugfix for the Kiro provider, merged into [decolua/9router](https://github.com/decolua/9router).
+
 ## 🔧 Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
