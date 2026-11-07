@@ -1,48 +1,20 @@
-# Hi, I'm @zanuartri 👋
+## Hi, I'm Zanuar 👋
 
-6+ years as a QA Automation Engineer, now shifting into **AI agent engineering**. I build agents that act, not just chat: systems that plan, call tools, and get evaluated like production code, not demos.
+I code with AI agents every day, fix what they break, then turn the fixes into small tools.
 
-🔗 Portfolio: [zanuar.dev](https://zanuar.dev)
+Before this I spent 6+ years in QA automation, so I still care most about the moments things go wrong.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanuartri/zanuartri/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zanuartri/zanuartri/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zanuartri/zanuartri/output/github-contribution-grid-snake.svg" />
-</picture>
+🧭 A field guide to coding with agents: [zanuar.dev](https://zanuar.dev)
 
-## 🍀 Current Focus
+### What I'm building
 
-- **Agentic AI Engineering**: Building with LangChain and LangGraph, RAG-grounded agents that don't stop at a chat reply.
-- **MCP (Model Context Protocol)**: Designing and implementing custom MCP servers to bridge LLMs, local dev environments, and data layers.
-- **Vibe Coding & Automation**: Streamlining the dev lifecycle where high-level design, context injection, and prompt engineering meet high-performance backend logic.
+- **ZRouter** (in the works): a router for coding agents that switches providers without losing your cache or context. Fallback, round robin, and the providers people here actually use, from Claude and ChatGPT to Kenari.id and Ollama.
+- **Small tools** (ideas for now): agent skills, Claude Code plugins and MCP servers, CLI tools, and Herdr Desktop mods.
 
-## 🌱 Open Source
+### Open source
 
-- UI fix and a small RTK bugfix for the Kiro provider, merged into [decolua/9router](https://github.com/decolua/9router).
+- A UI fix and a small RTK bugfix for the Kiro provider, merged into [decolua/9router](https://github.com/decolua/9router).
 
-## 🔧 Tech & Tools
+### Say hi
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-
-- **AI & Automation**: LangChain, LangGraph, Agentic Frameworks, MCP Servers, LLM Orchestration.
-- **Backend Ecosystem**: Java (Spring Boot), Javascript, Python, and PostgreSQL.
-- **Interests**: System Architecture, Context-Driven Development, and Hyper-Automation.
-
-## ⚡ My Vibe
-
-> "The future of coding isn't about writing syntax line by line; it's about steering intelligence, managing context, and bringing ideas to life at the speed of thought."
-
-## 📣 Reach Me
-
-- Portfolio: [zanuar.dev](https://zanuar.dev)
-- Email: [triromadon@gmail.com](mailto:triromadon@gmail.com)
-- Let's talk about Agentic AI, MCP servers, or the future of Vibe Coding!
-
----
-"Logic will get you from A to B. Imagination will take you everywhere."
+[X](https://x.com/zanuartri) · [Threads](https://www.threads.net/@zanuar.tri) · triromadon@gmail.com
