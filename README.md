@@ -9,7 +9,8 @@ Before this I spent 6+ years in QA automation, so I still care most about the mo
 ### What I'm building
 
 - **ZRouter** (in the works): a router for coding agents that switches providers without losing your cache or context. Fallback, round robin, and the providers people here actually use, from Claude and ChatGPT to Kenari.id and Ollama.
-- **Small tools** (ideas for now): agent skills, Claude Code plugins and MCP servers, CLI tools, and Herdr Desktop mods.
+- **[herdr-rig](https://github.com/zanuartri/herdr-rig)**: one manager agent that writes tickets, hands them to worker and reviewer agents (Claude Code, Codex, opencode, pi and more), and merges what passes review. Runs in herdr, with a live board.
+- **Small tools** (ideas for now): agent skills, Claude Code plugins and MCP servers, and CLI tools.
 
 ### Open source
 
