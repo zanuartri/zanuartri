@@ -6,7 +6,20 @@ Before this I spent 6+ years in QA automation, so I still care most about the mo
 
 🧭 A field guide to coding with agents: [zanuar.dev](https://zanuar.dev)
 
-### What I'm building
+### Featured: [zanuar-stack](https://github.com/zanuartri/zanuar-stack)
+
+[![zanuar-stack: run your coding agents like a team](https://raw.githubusercontent.com/zanuartri/zanuar-stack/main/docs/hero.png)](https://github.com/zanuartri/zanuar-stack)
+
+Skills that let coding agents work as a team: an orchestrator, a manager per repo, a worker and a reviewer per ticket. Running many agents is easy; keeping track of who owns what, what got reviewed and which PR is waiting on you is not. You make the decisions, they keep the books.
+
+```sh
+claude plugin marketplace add zanuartri/zanuar-stack
+claude plugin install zanuar-stack@zanuar-stack
+```
+
+Codex, Pi and others: see [Install](https://github.com/zanuartri/zanuar-stack#install).
+
+### Also building
 
 - **ZRouter** (in the works): a router for coding agents that switches providers without losing your cache or context. Fallback, round robin, and the providers people here actually use, from Claude and ChatGPT to Kenari.id and Ollama.
 - **[herdr-rig](https://github.com/zanuartri/herdr-rig)**: one manager agent that writes tickets, hands them to worker and reviewer agents (Claude Code, Codex, opencode, pi and more), and merges what passes review. Runs in herdr, with a live board.
